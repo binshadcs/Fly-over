@@ -10,6 +10,6 @@ It is user-friendly, can use anyone easy.
 5. Rasmina
 
 # How to Run and Install
-'''
+```
 pip install django
-'''
+```
